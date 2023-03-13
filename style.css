@@ -64,5 +64,11 @@ body{
     border-radius: 10px;
     font-size: larger;
     font-weight: bold;
-    background-color:rgb(228, 100, 248);
+    background-color:rgb(186, 126, 196);
+}
+.name{
+    display: flex;
+    position: absolute;
+    align-self: flex-start;
+    color: rgb(254, 5, 55);
 }
